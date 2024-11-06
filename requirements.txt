@@ -1,0 +1,7 @@
+requests
+cryptography
+
+steam
+loguru
+flet==0.24.1
+beautifulsoup4
